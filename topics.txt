@@ -1,0 +1,87 @@
+NamedFormula
+Data model configation(Additional attribute, relational attribute, attribute type)
+Out of box
+Additional breakdown strcture 
+orgnaitaon breakdoun strcture
+database mangement tool
+alert
+look
+persistance table,
+temprory table
+Reports
+
+
+
+* NamedFormula
+* Data model configuration
+	-Additional attribute, 
+	-relational attribute, 
+	-attribute type
+* Out of box
+* Additional breakdown structure 
+* organizational breakdown structure
+* database management tool
+* alert
+* lock
+* persistence table
+* temporary table
+* Reports
+
+-------------------------
+
+
+S.No	Topics	Completed	
+1	Project and portfolio Intro	Yes	
+2	Planisware intro	Yes	
+3	Plw Level 1 Intro	Yes	
+4	Configuration Page/Tools	Yes	
+5	User Attributes:	Yes	
+6	Simple	Yes	
+7	Possible Values	Yes	
+8	Relations	Yes	
+9	Named Formulas	Yes	
+10	Hyperdoc	Yes	
+11	Settings	Yes	
+12	Styles	Pending	
+13	Text keys	Yes	
+14	Locks	Yes	
+15	Alerts	Yes	
+16	DMR	Yes	
+17	L2	 	
+18	Additional Attributes	Yes	
+19	Attribute Type	Yes	
+20	Relational Attributes	Yes	
+21	Temporary Table	Yes	
+22	Persistent table	Yes	
+23	Data Model Checking	Yes	
+24	Reports	Pending	
+25	Opx2Scripting	Pending	
+
+
+------------------------------
+S.No	Topics	Completed	Date
+1	Project and portfolio Intro	Yes	3/12/2019
+2	Planisware intro	Yes	3/12/2019
+3	Plw Level 1 Intro	Yes	3/12/2019
+4	Configuration Page/Tools	Yes	3/13/2019
+5	User Attributes:	Yes	3/13/2019
+6	Simple	Yes	3/13/2019
+7	Possible Values	Yes	3/13/2019
+8	Relations	Yes	3/13/2019
+9	Named Formulas	Yes	3/18/2019
+10	Hyperdoc	Yes	3/25/2019
+11	Settings	Yes	3/26/2019	
+12	Text keys	Yes	3/27/2019
+13	Locks	Yes	3/28/2019
+14	Alerts	Yes	3/29/2019
+15	DMR	Yes	3/29/2019
+16	L2	 	4/1/2019
+17	Additional Attributes	Yes	4/2/2019
+18	Attribute Type	Yes	4/3/2019
+19	Relational Attributes	Yes	4/4/2019
+20	Temporary Table	Yes	4/5/2019
+21	Persistent table	Yes	4/5/2019
+22	Data Model Checking	Yes	4/5/2019
+23	Reports	Pending	
+24	Opx2Scripting	Pending	
+25	Styles	Pending
